@@ -8,7 +8,7 @@
 6. [Repository Structure](#repository-structure)
 7. [How to Run](#how-to-run)
 8. [Dashboard](#dashboard)
-9. [Acknowledgment](#acknowledgment)
+9. [Acknowledgments](#acknowledgments)
 10. [Conclusion](#conclusion)
 11. [Contacts](#contacts)
 
